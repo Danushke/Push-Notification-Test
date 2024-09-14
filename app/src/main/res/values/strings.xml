@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Push Notification Test</string>
+    <string name="msg_token_fmt">Error</string>
+</resources>
